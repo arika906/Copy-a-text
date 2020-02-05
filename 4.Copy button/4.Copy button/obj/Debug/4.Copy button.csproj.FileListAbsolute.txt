@@ -1,0 +1,10 @@
+D:\SD2\4.Copy button\4.Copy button\bin\Debug\4.Copy button.exe.config
+D:\SD2\4.Copy button\4.Copy button\bin\Debug\4.Copy button.exe
+D:\SD2\4.Copy button\4.Copy button\bin\Debug\4.Copy button.pdb
+D:\SD2\4.Copy button\4.Copy button\obj\Debug\4.Copy button.csprojResolveAssemblyReference.cache
+D:\SD2\4.Copy button\4.Copy button\obj\Debug\_4.Copy_button.Form1.resources
+D:\SD2\4.Copy button\4.Copy button\obj\Debug\_4.Copy_button.Properties.Resources.resources
+D:\SD2\4.Copy button\4.Copy button\obj\Debug\4.Copy button.csproj.GenerateResource.Cache
+D:\SD2\4.Copy button\4.Copy button\obj\Debug\4.Copy button.csproj.CoreCompileInputs.cache
+D:\SD2\4.Copy button\4.Copy button\obj\Debug\4.Copy button.exe
+D:\SD2\4.Copy button\4.Copy button\obj\Debug\4.Copy button.pdb
